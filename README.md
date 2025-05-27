@@ -20,3 +20,9 @@ python app.py
 
 4. Open your browser and go to:  
 `http://127.0.0.1:5000`
+
+Screenshot
+
+Here’s how the form looks after submission:
+
+Form Screenshot (https://raw.githubusercontent.com/Yamtukk/Form/main/Screenshot_20250527_202052_com.android.chrome.jpg)
